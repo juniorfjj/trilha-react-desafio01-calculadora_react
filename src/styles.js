@@ -8,12 +8,14 @@ export const Container = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
+
 `
 
 
 export const Content = styled.div`
-    background-color: #FFFFFF;
+    background-color: #F9B469;
     width: 50%;
+    border-radius: 1rem;
 `
 
 export const Row = styled.div`
